@@ -2,4 +2,4 @@
 
 This is another repo for practice
 
-## Whaeed
+## Waheed
